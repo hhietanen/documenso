@@ -501,6 +501,7 @@ export default function EmbedPlaygroundPage() {
               <option value="nl">Dutch (nl)</option>
               <option value="pl">Polish (pl)</option>
               <option value="pt-BR">Portuguese - Brazil (pt-BR)</option>
+              <option value="fi">Finnish (fi)</option>
               <option value="zh">Chinese (zh)</option>
             </select>
           </div>

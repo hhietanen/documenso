@@ -20,6 +20,7 @@ const LANGUAGE_LABELS: Record<string, string> = {
   nl: 'Dutch',
   pl: 'Polish',
   'pt-BR': 'Portuguese (Brazil)',
+  fi: 'Finnish',
   ja: 'Japanese',
   ko: 'Korean',
   zh: 'Chinese',

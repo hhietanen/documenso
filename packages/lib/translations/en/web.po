@@ -6423,6 +6423,10 @@ msgid "Free Signature Settings"
 msgstr "Free Signature Settings"
 
 #: packages/lib/constants/i18n.ts
+msgid "Finnish"
+msgstr "Finnish"
+
+#: packages/lib/constants/i18n.ts
 msgid "French"
 msgstr "French"
 
